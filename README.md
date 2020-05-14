@@ -1,6 +1,6 @@
 # TakenMind-Global-Data-Analytics-Internship
 
-### The project is to help a company which is trying to control attrition. There are two sets of data: "Existing employees" and "Employees who have left". Following attributes are available for every employee.
+## The project is to help a company which is trying to control attrition. There are two sets of data: "Existing employees" and "Employees who have left". Following attributes are available for every employee.
 + Satisfaction Level
 + Last evaluation
 + Number of projects
@@ -11,9 +11,9 @@
 + Departments (column sales)
 + Salary
 
-# The project answers the following questions; 
+#### The project answers the following questions; 
 1. What type of employees are leaving? 
 2. Which employees are prone to leave next. 
 3. Recommendations
 
-# The code files and the final presentation are added in the file for your perusal.
+ The code files and the final presentation are added in the file for your perusal.
